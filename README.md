@@ -6,7 +6,7 @@
 - Discord: Helloyunho#2004
 - Website: [Here :)](https://helloyunho.xyz)
 - Primary language: Korean
-- Prefer programming languages: JavaScript, Python, Swift
+- Prefer programming languages: JavaScript, TypeScript, Python, Swift
 
 ![My fancy profile](https://github-readme-stats.vercel.app/api?username=Helloyunho)
 
