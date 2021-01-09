@@ -4,10 +4,9 @@
 
 - Name: Helloyunho
 - Discord: Helloyunho#2004
-- Website: [Here :)](https://helloyunho.xyz)
-- Primary language: Korean
+- Website: https://helloyunho.xyz
+- Primary language: Korean(한국어)
 - Prefer programming languages: JavaScript, TypeScript, Python, Swift
+- Maintainer of [harmony](https://github.com/harmony-org/harmony)
 
-![My fancy profile](https://github-readme-stats.vercel.app/api?username=Helloyunho)
-
-~~And please help me to make [this project](https://github.com/Helloyunho/Paste-alt)~~
+![My fancy profile](https://github-readme-stats.vercel.app/api?username=Helloyunho&show_icons=true&theme=onedark)
