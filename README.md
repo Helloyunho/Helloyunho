@@ -8,7 +8,7 @@
 - Discord: helloyunho
 - Website: https://helloyunho.xyz
 - Primary language: Korean(한국어)
-- Prefer programming languages: JavaScript, TypeScript, Python, Swift
+- Preferred programming languages: JavaScript, TypeScript, Python, Swift
 - My jobs: web frontend, Apple platforms app full-stack, maintaining or creating a library
 - Maintainer of [harmony](https://github.com/harmony-org/harmony)
 
